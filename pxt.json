@@ -1,0 +1,14 @@
+{
+    "name": "Ivar v2.0",
+    "version": "0.0.0",
+    "files": [
+        "main.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "dependencies": {
+        "device": "*"
+    },
+    "testDependencies": {}
+}
