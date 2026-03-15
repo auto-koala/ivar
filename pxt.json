@@ -2,6 +2,10 @@
     "name": "Ivar v2.0",
     "version": "0.0.0",
     "files": [
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
         "main.ts"
     ],
     "supportedTargets": [
