@@ -1,2 +1,5 @@
 scene.setBackgroundColor(7)
+tiles.setTilemap(assets.tilemap`BossLevel`)
 let mySprite = sprites.create(assets.image`IvarRight`)
+controller.moveSprite(mySprite)
+scene.cameraFollowSprite(mySprite)
